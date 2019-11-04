@@ -1,0 +1,22 @@
+img {
+  border-radius: 10px;
+}
+
+.intro {
+  font: 80px "Gilroy", sans-serif !important;
+}
+.name {
+  font: 80px "Gilroy", sans-serif !important;
+}
+.cont {
+  font: 40px "Gilroy", sans-serif !important;
+}
+
+.links {
+  width: 50%;
+}
+.docs {
+  padding-left: 12px !important;
+  text-align: left;
+  font: 30px "Gilroy", sans-serif !important;
+}
