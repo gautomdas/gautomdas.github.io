@@ -3,13 +3,13 @@ img {
 }
 
 .intro {
-  font: 80px "Gilroy", sans-serif !important;
+  font: 5rem "Gilroy", sans-serif !important;
 }
 .name {
-  font: 80px "Gilroy", sans-serif !important;
+  font: 5rem "Gilroy", sans-serif !important;
 }
 .cont {
-  font: 40px "Gilroy", sans-serif !important;
+  font: 2.5rem "Gilroy", sans-serif !important;
 }
 
 .links {
@@ -18,5 +18,19 @@ img {
 .docs {
   padding-left: 12px !important;
   text-align: left;
-  font: 30px "Gilroy", sans-serif !important;
+  font: 1.875rem "Gilroy", sans-serif !important;
+}
+
+.contact {
+  padding: 0.9rem !important;
+  text-align: left;
+  font: 1.875rem "Gilroy", sans-serif !important;
+}
+
+.ptitle {
+  font: 3.125rem "Gilroy", sans-serif !important;
+}
+
+.psubtitle {
+  font: 1.875rem "Gilroy", sans-serif !important;
 }
